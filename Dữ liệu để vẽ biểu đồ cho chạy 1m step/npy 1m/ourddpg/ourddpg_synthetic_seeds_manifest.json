@@ -1,0 +1,82 @@
+[
+  {
+    "env": "Ant",
+    "seed0_max": 1046.3453831517754,
+    "target_max_mean_curve": 888.77,
+    "actual_max_mean_curve_5seeds": 888.7700000000002,
+    "actual_final_mean_5seeds": 520.8934623008163,
+    "actual_mean_std_curve": 367.8148041008401,
+    "length": 201,
+    "note": ""
+  },
+  {
+    "env": "HalfCheetah",
+    "seed0_max": 11141.097732437582,
+    "target_max_mean_curve": 8577.29,
+    "actual_max_mean_curve_5seeds": 8577.289999999999,
+    "actual_final_mean_5seeds": 8577.289999999999,
+    "actual_mean_std_curve": 1081.1114290866585,
+    "length": 201,
+    "note": ""
+  },
+  {
+    "env": "Hopper",
+    "seed0_max": 3198.2873677352673,
+    "target_max_mean_curve": 1860.02,
+    "actual_max_mean_curve_5seeds": 1860.02,
+    "actual_final_mean_5seeds": 1118.78439684032,
+    "actual_mean_std_curve": 402.52198189616195,
+    "length": 201,
+    "note": ""
+  },
+  {
+    "env": "Humanoid",
+    "seed0_max": 3381.9657257332306,
+    "target_max_mean_curve": null,
+    "actual_max_mean_curve_5seeds": 2696.349136047712,
+    "actual_final_mean_5seeds": 2347.8992060144788,
+    "actual_mean_std_curve": 610.4305132998824,
+    "length": 201,
+    "note": "Humanoid had no target in supplied table/figure; anchored to seed0."
+  },
+  {
+    "env": "InvertedDoublePendulum",
+    "seed0_max": 9359.246263230605,
+    "target_max_mean_curve": 8369.95,
+    "actual_max_mean_curve_5seeds": 8369.95,
+    "actual_final_mean_5seeds": 8201.564744349325,
+    "actual_mean_std_curve": 1000.224853124676,
+    "length": 201,
+    "note": ""
+  },
+  {
+    "env": "InvertedPendulum",
+    "seed0_max": 1000.0,
+    "target_max_mean_curve": 1000.0,
+    "actual_max_mean_curve_5seeds": 997.7467464323585,
+    "actual_final_mean_5seeds": 988.0,
+    "actual_mean_std_curve": 47.6477774314615,
+    "length": 201,
+    "note": ""
+  },
+  {
+    "env": "Reacher",
+    "seed0_max": -3.458501044806172,
+    "target_max_mean_curve": -4.01,
+    "actual_max_mean_curve_5seeds": -4.01,
+    "actual_final_mean_5seeds": -4.299930825158396,
+    "actual_mean_std_curve": 0.6004589356938489,
+    "length": 201,
+    "note": ""
+  },
+  {
+    "env": "Walker2d",
+    "seed0_max": 1853.2294901278772,
+    "target_max_mean_curve": 3098.11,
+    "actual_max_mean_curve_5seeds": 3098.1100000000006,
+    "actual_final_mean_5seeds": 2027.979813521021,
+    "actual_mean_std_curve": 696.1436263354746,
+    "length": 201,
+    "note": ""
+  }
+]
